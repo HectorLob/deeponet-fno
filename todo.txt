@@ -1,0 +1,1 @@
+Download data: see neural operator bootcamp (https://github.com/neuraloperator/bootcamp)
